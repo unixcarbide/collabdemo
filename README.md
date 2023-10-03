@@ -4,7 +4,7 @@ Collaboration Demo Repository
 
 This repository was created as an example, to introduce git and GitHub to people in a hands-on session.
 
-# Hands-On with git and GitHub
+# Hands-On Session covering git and GitHub
 
 Github has lot to offer Machinsts.  From software/firmware source code, to 3d files and engineering materials, GitHub is a vast universe of resources.  GitHub is even a platform to publish and collaborate on your own work, professionally and personally. 
 
