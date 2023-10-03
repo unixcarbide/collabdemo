@@ -1,0 +1,50 @@
+GIT and GitHub Primer
+
+GIT:
+- What source code management is
+- What git (the software) is https://git-scm.com/
+  - roots in patch(1), diff(1)
+  - why git is novel (over legacy svn, cvs, sccs, many commercial tools like perforce...)
+
+Concepts:
+  - "upstream" and "local" repositories
+  - "branching", "merging"
+
+GIT HANDS-ON EXAMPLES:
+  - Making a "branch"
+    - Modify some code, make a "commit"
+      - Commit message ettiquitte
+    - "Push" your branch (to a central server)
+
+  When "merging" branches:
+    - Git has two timelines that matter:
+      - the branch commit order
+      - wallclock
+    Merging, eventually arrives at a linear set of changes
+      - Merge can happen using git tool, or,
+      - Merge in GitHub often happen as a result of socalized "Pull Request"
+
+GITHUB:
+- A company which offers the service of hosting git repositories on the internet
+- git can be used without GitHub, (and often is)
+  - your repos are yours, you can host them wherever you wish in perpatuity.
+  + legacy, sourceforge...  (patches on usenet...)
+
+GITHUB HANDS-ON:
+  - Make an account, (it's not harder than making any social media account)
+  - "forking" a project, (so you can work on it as you see fit)
+  - Making a "Pull Request", to submit your changes to the "upstream"
+
+  - Reading and Evaluating projects/code
+    - Navigating users, repos, code
+    - "README" and "/docs" convention
+    - Searching,
+      - GitHub search is good,
+      - download ("fetch") a repo and search using `git grep`, `git log`, and `git blame`
+
+  Other GitHub goodies:
+    - follow updates for projects you care about
+    - it's ok to ask for feature requests (different projects accept or ignore these)
+    - it's wonderful to report reproducible bugs
+       - bugs and feature requests are *always* better when you can contribute code in a PR!
+
