@@ -13,7 +13,7 @@ Even if you're not interested in coding, knowing the basics of git use opens up 
 Git Session:
 
   - Topics: Hands-on using git fundamentals, then using the GitHub universe
-  - When: Thursday Oct 5, 2023, 7-8pm ET
+  - When: *SCHEDULING IN DISCORD*
   - Where: Join the KP Discord Server!  <https://discord.gg/snuFqH4Szm>
 
   - Presenter: unixcarbide, Internet Infrastructure Engineer (UNIX hacker)
