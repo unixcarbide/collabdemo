@@ -6,7 +6,7 @@ This repository was created as an example, to introduce git and GitHub to people
 
 # Hands-On Session covering git and GitHub
 
-Github has lot to offer Machinsts.  From software/firmware source code, to 3d files and engineering materials, GitHub is a vast universe of resources.  GitHub is even a platform to publish and collaborate on your own work, professionally and personally. 
+Github has lots to offer Machinsts.  From software/firmware source code, to 3d files and engineering materials, GitHub is a vast universe of resources.  GitHub is even a platform to publish and collaborate on your own work, professionally and personally. 
 
 Even if you're not interested in coding, knowing the basics of git use opens up a giant world of resources!
 
@@ -24,9 +24,9 @@ Git Session:
 
   1. Make yourself a [GitHub Account](https://github.com/signup)
   2. Install git on your computer
-    - Windows: [GitHub Desktop](https://desktop.github.com/) (we will use this for the session examples)
-    - Mac: [GitHub Desktop](https://desktop.github.com/) or [git from the command line](https://git-scm.com/download/mac) (either can be used for the session)
-    - UNIX (BSD/Linux): install git however you wish, your package manager of choice will have it
+      - Windows: [GitHub Desktop](https://desktop.github.com/) (we will use this for the session examples)
+      - Mac: [GitHub Desktop](https://desktop.github.com/) or [git from the command line](https://git-scm.com/download/mac) (either can be used for the session)
+      - UNIX (BSD/Linux): install git however you wish, your package manager of choice will have it
 
 See you there!
 
