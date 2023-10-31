@@ -6,7 +6,7 @@ This repository was created as an example, to introduce git and GitHub to people
 
 # Hands-On Session covering git and GitHub
 
-Github has lot to offer Machinsts.  From software/firmware source code, to 3d files and engineering materials, GitHub is a vast universe of resources.  GitHub is even a platform to publish and collaborate on your own work, professionally and personally. 
+Github has lots to offer Machinsts.  From software/firmware source code, to 3d files and engineering materials, GitHub is a vast universe of resources.  GitHub is even a platform to publish and collaborate on your own work, professionally and personally. 
 
 Even if you're not interested in coding, knowing the basics of git use opens up a giant world of resources!
 
