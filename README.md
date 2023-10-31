@@ -24,9 +24,9 @@ Git Session:
 
   1. Make yourself a [GitHub Account](https://github.com/signup)
   2. Install git on your computer
-    - Windows: [GitHub Desktop](https://desktop.github.com/) (we will use this for the session examples)
-    - Mac: [GitHub Desktop](https://desktop.github.com/) or [git from the command line](https://git-scm.com/download/mac) (either can be used for the session)
-    - UNIX (BSD/Linux): install git however you wish, your package manager of choice will have it
+      - Windows: [GitHub Desktop](https://desktop.github.com/) (we will use this for the session examples)
+      - Mac: [GitHub Desktop](https://desktop.github.com/) or [git from the command line](https://git-scm.com/download/mac) (either can be used for the session)
+      - UNIX (BSD/Linux): install git however you wish, your package manager of choice will have it
 
 See you there!
 
